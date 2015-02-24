@@ -30,7 +30,7 @@ public class rastreator {
 	}
 	public static void main(String[] args) {
 		rastreator c = new rastreator();
-		System.out.println(c.toString()+" "+c.dados(20));
+		System.out.println(c.toString()+" "+c.dados(10));
 
 
 	}
