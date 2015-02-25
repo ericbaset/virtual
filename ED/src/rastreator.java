@@ -26,11 +26,11 @@ public class rastreator {
 	 * este metodo devuelve una cadena de Strings
 	 */
 	public String toString(){
-		return "Tu tirada es de :";
+		return "Tu mierda de tirada es de :";
 	}
 	public static void main(String[] args) {
 		rastreator c = new rastreator();
-		System.out.println(c.toString()+" "+c.dados(10));
+		System.out.println(c.toString()+" "+c.dados(100));
 
 
 	}
